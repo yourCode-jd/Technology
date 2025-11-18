@@ -8,7 +8,7 @@ A modern and responsive technology landing page built with HTML, CSS, Bootstrap,
 
 ## 🚀 Github Demo
 
-[View Here](https://yourcode-jd.github.io/technology/)
+[View Here](https://yourcode-jd.github.io/Technology/)
 
 ---
 
